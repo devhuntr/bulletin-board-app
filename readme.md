@@ -18,3 +18,6 @@ This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutori
 
 If you would like to use a backend written in Go, [thewhitetulip](http://github.com/thewhitetulip) has written on. See [the source code](https://github.com/thewhitetulip/go-vue-events).
  
+
+## Week 9 CI/CD Pipeline
+This project uses GitHub Actions to automatically test and publish Docker images.
